@@ -26,7 +26,7 @@ Dit is een **tijger**.
 
 ## Puma
 
-![003](plaatjes/003.webp)
+![003](plaatjes/003.png)
 
 dit is een **puma**.
 
