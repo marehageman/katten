@@ -33,3 +33,9 @@ dit is een **puma**.
 >hij wordt ook wel de bergleeuw genoemt
 
 ---
+
+## Cheeta
+
+![004](plaatjes/004.jpeg)
+
+dit is een **cheeta**
