@@ -20,4 +20,16 @@ Dit is een **leeuw**.
 
 Dit is een **tijger**.
 
+>hij is de grootste kat
+
+---
+
+## Puma
+
+![003](plaatjes/003.webp)
+
+dit is een **puma**.
+
+>hij wordt ook wel de bergleeuw genoemt
+
 ---
