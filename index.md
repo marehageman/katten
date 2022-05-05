@@ -39,3 +39,9 @@ dit is een **puma**.
 ![004](plaatjes/004.jpeg)
 
 dit is een **cheeta**
+>hij is heel snel
+
+## zwarte panter
+
+![005](plaatjes/005.jpeg)
+
