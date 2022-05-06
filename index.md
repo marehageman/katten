@@ -10,7 +10,7 @@ Je hebt verschillende soorten katten. Je hebt grote katten, maar je hebt ook hui
 
 Dit is een **leeuw**.
 
->hij jaagt in groepen.
+>Hij jaagt in groepen.
 
 ---
 
@@ -20,7 +20,7 @@ Dit is een **leeuw**.
 
 Dit is een **tijger**.
 
->hij is de grootste kat
+>Hij is de grootste kat
 
 ---
 
@@ -28,9 +28,9 @@ Dit is een **tijger**.
 
 ![003](plaatjes/003.png)
 
-dit is een **puma**.
+Dit is een **puma**.
 
->hij wordt ook wel de bergleeuw genoemt
+>Hij wordt ook wel de bergleeuw genoemt
 
 ---
 
@@ -38,8 +38,8 @@ dit is een **puma**.
 
 ![004](plaatjes/004.jpeg)
 
-dit is een **cheeta**
->hij is heel snel
+Dit is een **cheeta**
+>Hij is heel snel
 
 ---
 
@@ -47,20 +47,27 @@ dit is een **cheeta**
 
 ![005](plaatjes/005.jpeg)
 
-dit is een **zwarte panter**
->als je heel goed kijkt zie je nog de ringen van een luipaard
+Dit is een **zwarte panter**
+>Als je heel goed kijkt zie je nog de ringen van een luipaard
+
 ---
+
 ## Luipaard
 
 ![006](plaatjes/006.jpg)
 
 Dit is een **luipaard**
->de luipaard is het zelfde dier als de panter
+>De luipaard is het zelfde dier als de panter
+
 ---
+
 ## Jaguar
 
 ![007](plaatjes/007.jpg)
 
 Dit is een **jaguar**
->de jaguar heeft ook nog wat geel in zijn ringen
+>De jaguar heeft ook nog wat geel in zijn ringen
+
 ---
+
+Net zag je alle grote katten .Er zijn ook nog huiskatten .Die ga je nu zien.
