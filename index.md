@@ -49,6 +49,7 @@ dit is een **cheeta**
 >als je heel goed kijkt zie je nog de ringen van een luipaard
 ---
 ## luipaard
+
 ![006](plaatjes/006.jpg)
 
 >de luipaard is het zelfde dier als de panter
