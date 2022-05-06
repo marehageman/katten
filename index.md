@@ -41,7 +41,15 @@ dit is een **puma**.
 dit is een **cheeta**
 >hij is heel snel
 
+---
+
 ## zwarte panter
 
 ![005](plaatjes/005.jpeg)
+>als je heel goed kijkt zie je nog de ringen van een luipaard
+---
+## luipaard
+![006](plaatjes/006.jpg)
 
+>de luipaard is het zelfde dier als de panter
+---
